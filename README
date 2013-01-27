@@ -1,1 +1,3 @@
-Test
+Script for reading all playlists stored in Banshee player's SQLite db
+and exporting them as M3U playlists.  I use this to get my playlists
+over from Banshee to Squeezebox.
